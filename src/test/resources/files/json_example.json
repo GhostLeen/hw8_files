@@ -1,0 +1,15 @@
+{"title": "menu",
+  "menuDiv": {
+    "id": "file",
+    "value": "File",
+    "used": false,
+    "popup": [
+      {"value": "New",
+        "clickId": 111},
+      {"value": "Open",
+        "clickId": 666},
+      {"value": "Close",
+        "clickId": 999}
+    ]
+  }
+}
